@@ -1,0 +1,15 @@
+C:\Users\Owner\source\repos\DonutShop\bin\Debug\net6.0\DonutShop.exe
+C:\Users\Owner\source\repos\DonutShop\bin\Debug\net6.0\DonutShop.deps.json
+C:\Users\Owner\source\repos\DonutShop\bin\Debug\net6.0\DonutShop.runtimeconfig.json
+C:\Users\Owner\source\repos\DonutShop\bin\Debug\net6.0\DonutShop.dll
+C:\Users\Owner\source\repos\DonutShop\bin\Debug\net6.0\DonutShop.pdb
+C:\Users\Owner\source\repos\DonutShop\obj\Debug\net6.0\DonutShop.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\DonutShop\obj\Debug\net6.0\DonutShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\DonutShop\obj\Debug\net6.0\DonutShop.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\DonutShop\obj\Debug\net6.0\DonutShop.AssemblyInfo.cs
+C:\Users\Owner\source\repos\DonutShop\obj\Debug\net6.0\DonutShop.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\DonutShop\obj\Debug\net6.0\DonutShop.dll
+C:\Users\Owner\source\repos\DonutShop\obj\Debug\net6.0\refint\DonutShop.dll
+C:\Users\Owner\source\repos\DonutShop\obj\Debug\net6.0\DonutShop.pdb
+C:\Users\Owner\source\repos\DonutShop\obj\Debug\net6.0\DonutShop.genruntimeconfig.cache
+C:\Users\Owner\source\repos\DonutShop\obj\Debug\net6.0\ref\DonutShop.dll
